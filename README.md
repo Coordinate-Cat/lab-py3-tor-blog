@@ -11,6 +11,12 @@ python -m http.server 8080
 ```
 
 ## TORRC
+### WHERE IS
+```
+Browser/TorBrowser/Data/Tor/torrc
+```
+
+### UPDATE TORRC
 ```
 HiddenServiceDir C:\Users\<ANY DIRECTORY>\tor-blog
 HiddenServicePort 80 127.0.0.1:8080
