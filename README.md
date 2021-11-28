@@ -23,3 +23,7 @@ HiddenServicePort 80 127.0.0.1:8080
 ↑↑↑
 ANYTHING IS OKAY
 ```
+
+## TODO
+- [ ] flask
+- [ ] forever
