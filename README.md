@@ -1,4 +1,4 @@
-# PY3-TOR-BLOG
+# lab-py3-tor-blog
 WITH PYTHON3 WEB SERVER
 
 ## LINKS
